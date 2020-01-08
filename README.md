@@ -1,7 +1,7 @@
 # Target String
 run plotter.py for results
 
-Functions usage:
+Functions usage:<br/>
 main() - fitness levels in each generation
 plot_generations() - fitness level across generations
 
